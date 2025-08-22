@@ -142,14 +142,5 @@ yaml
 Copy
 Edit
 
----
-
-👉 Do you want me to also include a **step-by-step AWS Console setup guide** (IAM role, API Gateway integration, testing) inside the README so it’s beginner-friendly?
 
 
-
-
-
-
-
-Ask ChatGPT
