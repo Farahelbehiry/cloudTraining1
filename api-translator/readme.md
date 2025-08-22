@@ -131,16 +131,6 @@ python
 Copy
 Edit
 target_lang = body.get('target', 'es')
-📖 Useful Links
-Amazon Translate Documentation
-
-AWS Lambda Documentation
-
-API Gateway + Lambda Tutorial
-
-yaml
-Copy
-Edit
 
 
 
